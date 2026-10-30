@@ -1,18 +1,5 @@
-# Entradas Mestalla - WordPress + WooCommerce
+# Entradas Mestalla - WordPress
 
-Tienda online de venta de entradas para el Estadio de Mestalla (Valencia). Proyecto de clase.
-
-## Contenido del repositorio
-
-| Archivo | Que contiene |
-|---|---|
-| backup_*-db.gz | Base de datos completa (paginas, productos, pedidos, usuarios, ajustes) |
-| backup_*-plugins.zip | Plugins: WooCommerce, Contact Form 7, Joinchat, UpdraftPlus |
-| backup_*-themes.zip | Temas (Twenty Twenty-Five personalizado) |
-| backup_*-uploads.zip | Imagenes subidas |
-| backup_*-others.zip | Resto de wp-content |
-
-Copia hecha con UpdraftPlus.
 
 ## Funcionalidades
 
@@ -29,12 +16,3 @@ Copia hecha con UpdraftPlus.
 | Pago | Bizum (transferencia, datos ficticios) y Pago en taquilla |
 | Envios | Correos, SEUR, MRW, envio gratis +100 EUR, recogida en taquillas |
 
-## Como restaurarlo
-
-Paso 1: instalar WordPress limpio.
-
-Paso 2: instalar y activar el plugin UpdraftPlus.
-
-Paso 3: subir los archivos backup_* en UpdraftPlus > Copias de seguridad existentes > Subir archivos de copia de seguridad.
-
-Paso 4: pulsar Restaurar.
