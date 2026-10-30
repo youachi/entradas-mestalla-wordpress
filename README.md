@@ -12,7 +12,7 @@
 | Mapa | Google Maps embebido en Estadio y Contacto |
 | Chat | Boton de WhatsApp (Joinchat) |
 | Productos por categorias | Liga, Copa del Rey, Abonos, Tour del estadio, Merchandising |
-| Resenas | Valoraciones con estrellas en los productos |
+| Reseñas | Valoraciones con estrellas en los productos |
 | Pago | Bizum (transferencia, datos ficticios) y Pago en taquilla |
 | Envios | Correos, SEUR, MRW, envio gratis +100 EUR, recogida en taquillas |
 
